@@ -1,6 +1,19 @@
+/* This overrides the Minima theme defaults */
 body {
-    font-family: system-ui, sans-serif;
-    text-align: center;
-    margin-top: 100px;
-  }
-  
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #2c3e50; /* Or your specific slide accent color */
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.site-header {
+    border-top: 5px solid #123527;
+    background-color: #f8f9fa;
+}
