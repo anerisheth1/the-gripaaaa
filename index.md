@@ -1,8 +1,10 @@
 ---
 layout: home
+nav_order: 1
 ---
 
-# The GripAAAA  
+![team name](/assets/team_name.png)
+
 **EECS 106A Final Project Report**
 
 Autonomous TurtleBot system for detecting, navigating to, and collecting wooden cubes using ArUco-based perception and a custom 4-DOF gripper.

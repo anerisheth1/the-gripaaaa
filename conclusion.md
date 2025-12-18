@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Conclusion
+permalink: /conclusion/
+nav_order: 4
 ---
 # Conclusion
 
