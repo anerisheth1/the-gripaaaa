@@ -1,3 +1,7 @@
+---
+layout: page
+title: Introduction
+---
 # Introduction
 ## Project End Goal
 

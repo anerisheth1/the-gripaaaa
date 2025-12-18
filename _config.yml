@@ -1,7 +1,10 @@
-title: "The GripAAAA"
-description:  "By Andrea, Annabelle, Aneri, Arun (AAAA)"
+title: "The GripAAAA Final Project Report"
+description: "By Andrea, Annabelle, Aneri, Arun (AAAA)"
 remote_theme: jekyll/minima
+
 header_pages:
-  - index.md
   - introduction.md
   - conclusion.md
+
+plugins:
+  - jekyll-remote-theme
