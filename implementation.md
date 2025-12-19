@@ -1,5 +1,8 @@
 ![arm protoype to final](/assets/arm_prototype_to_final.png)
 
+**Gripper Demo Video:**  
+[Gripper Demo](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+
 ### Components Used
 
 - **Mobile Base:** TurtleBot platform equipped with a Raspberry Pi.
@@ -12,7 +15,7 @@
 - **Battery Pack:** Dedicated power supply for the high-torque servos.
 - **Containers:** An onboard basket (paper cup) for storing retrieved cubes.
 
-### What parts did you use to build your solution?
+### Prototype Parts
 
 - **Prototype:** Cardboard, Basswood  
 - **Gripper design modified from:**  
