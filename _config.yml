@@ -2,14 +2,16 @@ title: "The GripAAAA"
 description: "By Andrea, Annabelle, Aneri, Arun (AAAA)"
 remote_theme: jekyll/minima
 
-header_pages:
-  - index.md
-  - introduction.md
-  - design.md
-  - implementation.md
-  - results.md
-  - conclusion.md
-  - team.md
+minima:
+  nav_pages:
+    - index.md
+    - introduction.md
+    - design.md
+    - implementation.md
+    - results.md
+    - conclusion.md
+    - team.md
 
 plugins:
   - jekyll-remote-theme
+
