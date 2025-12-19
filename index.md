@@ -6,8 +6,8 @@ nav_order: 1
 
 # EECS 106A Final Project Report
 
-** Project Source Code** 
-[View Project Source Code](assets/final_project_code/)
+[View Project Source Code]([View Final Project Source Code](https://github.com/anerisheth1/the-gripaaaa/tree/main/assets/final_project_code)
+)
 
 Autonomous TurtleBot system for detecting, navigating to, and collecting wooden cubes using ArUco-based perception and a custom 4-DOF gripper.
 
