@@ -4,8 +4,11 @@ remote_theme: jekyll/minima
 
 header_pages:
   - introduction.md
-  - team.md
+  - design.md
+  - implementation.md
+  - results.md
   - conclusion.md
+  - team.md
 
 plugins:
   - jekyll-remote-theme
