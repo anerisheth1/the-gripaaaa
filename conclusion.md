@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Conclusion
 permalink: /conclusion/
-nav_order: 6
 ---
 
 ## Results

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Introduction
 permalink: /intro/
-nav_order: 2
 ---
 # Introduction
 ## Project End Goal

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Results
 permalink: /results/
-nav_order: 5
 ---
 
 ## Demos

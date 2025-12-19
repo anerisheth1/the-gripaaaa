@@ -1,8 +1,6 @@
 ---
-layout: page
 title: The Team
 permalink: /team/
-nav_order: 7
 ---
 
 # Meet the AAAA Team
