@@ -1,3 +1,10 @@
+---
+layout: page
+title: Implementation
+permalink: /implementation/
+nav_order: 4
+---
+
 ![arm protoype to final](/assets/arm_prototype_to_final.png)
 
 **Gripper Demo Video:**  

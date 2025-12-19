@@ -2,7 +2,7 @@
 layout: page
 title: Design
 permalink: /design/
-nav_order: 2
+nav_order: 3
 ---
 
 # Design Criteria and Functionality

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Results
+permalink: /results/
+nav_order: 5
+---
+
 ## Demos
 
 This section documents all implemented system demos. Each demo includes a short description of the behavior being demonstrated and a placeholder link where the corresponding demo video can be added.
