@@ -7,8 +7,8 @@ permalink: /design/
 
 ![design](/assets/design.png)
 
-The primary objective of this project was to create an autonomous mobile manipulation system capable of localized object retrieval. The specific design criteria and desired functionalities included:
-* **Autonomous Detection**: The system must use computer vision to identify and locate specific targets (wooden cubes) and the robot’s own position relative to them using ArUco markers.
+The primary objective of this project was to create an autonomous mobile manipulation system capable of localized multi-object retrieval. The specific design criteria and desired functionalities included:
+* **Multi-Tag Detection and Tracking**: The system must use computer vision to identify and locate specific targets (wooden cubes) and the robot’s own position relative to them using multiple ArUco markers.
 * **Navigation**: The TurtleBot must navigate to a precise stop distance from the target to facilitate a successful grasp.
 * **Precision Actuation**: A custom-built robotic arm must execute a multi-step pick-and-place sequence, including preparing for the grab, grasping, lifting, and depositing the object into an onboard container.
 * **Loop Closure**: The robot must be able to return to its home base after successfully retrieving or placing a block
