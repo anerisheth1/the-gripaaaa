@@ -93,7 +93,7 @@ This demo highlights the full mobile manipulation pipeline, where the TurtleBot 
 - Partial automation (manual arm trigger)
 
 **Demo Video:**  
-[Link to Project Demo 1 – Search and Retrieve](https://drive.google.com/file/d/1aWHdKR1awoMA9FBK_THKndS1D5RHgUGQ/view?usp=drive_link)
+[Link to Project Demo 1 – Search and Retrieve](https://drive.google.com/file/d/1aWHdKR1awoMA9FBK_THKndS1D5RHgUGQ/view?usp=sharing)
 
 ---
 
@@ -119,7 +119,7 @@ This demo extends the search-and-retrieve task by handling multiple ArUco tags a
 - Video recorded at 2× speed
 
 **Demo Video:**  
-[Link to Project Demo 2 – Search, Retrieve, Place & Store](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+[Link to Project Demo 2 – Search, Retrieve, Place & Store](https://drive.google.com/file/d/10U8bopsaqOuuywfz8IOdW1GBXfbJhhGO/view?usp=sharing)
 
 ---
 
@@ -146,7 +146,7 @@ This demo demonstrates a courier-style task in which the robot transports object
 - Fully sequential courier behavior
 
 **Demo Video:**  
-[Link to Project Demo 3 – Courier](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+[Link to Project Demo 3 – Courier](https://drive.google.com/file/d/1DdGDi_LuzEowE_bm0MNPSKuwXH_l43V5/view?usp=drive_link)
 
 ---
 
