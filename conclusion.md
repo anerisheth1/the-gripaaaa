@@ -4,14 +4,13 @@ title: Conclusion
 permalink: /conclusion/
 nav_order: 4
 ---
-# Conclusion
 
 ## Results
 
 The final implementation of The GripAAAA successfully demonstrated the autonomous retrieval and transport of wooden cubes. The system met several key design criteria:
-* Autonomous Retrieval: The robot consistently completed the "Search and Retrieve" flow transitioning from AR tag detection to navigation to pick-and-place .
-* Precision Actuation: The custom gripper arm successfully executed pick-and-place sequences, including lifting and rotating objects to the onboard storage cup .
-* Task Complexity: We successfully demonstrated multi-tag courier missions where the robot navigated between distinct AR tag locations to collect and place items .
+* **Autonomous Retrieval**: The robot consistently completed the "Search and Retrieve" flow transitioning from AR tag detection to navigation to pick-and-place .
+* **Precision Actuation**: The custom gripper arm successfully executed pick-and-place sequences, including lifting and rotating objects to the onboard storage cup .
+* **Task Complexity**: We successfully demonstrated multi-tag courier missions where the robot navigated between distinct AR tag locations to collect and place items .
 
 ## Challenges
 
