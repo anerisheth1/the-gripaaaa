@@ -4,7 +4,7 @@ nav_order: 1
 
 ![team name](/assets/team_name.png)
 
-**EECS 106A Final Project Report**
+# EECS 106A Final Project Report
 
 Autonomous TurtleBot system for detecting, navigating to, and collecting wooden cubes using ArUco-based perception and a custom 4-DOF gripper.
 
@@ -24,7 +24,7 @@ This project presents an end-to-end mobile manipulation system in which a Turtle
 
 ## Results
 - Reliable detection and pose estimation of cubes
-- Stable approach and stopping behavior without oscillation
+- Approach and stop by cube detected via ArUco tags
 - Successful pickup and placement into onboard basket
 
 ---
