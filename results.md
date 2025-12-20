@@ -7,6 +7,7 @@ permalink: /results/
 
 This section documents all implemented system demos. Each demo includes a short description of the behavior being demonstrated and a placeholder link where the corresponding demo video can be added.
 
+Note: Must use a UC Berkeley account to view demo videos.
 ---
 
 ### Arm Demo 1: Manual Command Angles
@@ -27,7 +28,7 @@ This demo showcases manual control of the 4-DOF arm by sending joint angle comma
 - Filmed before improving grip
 
 **Demo Video:**  
-[Link to Arm Demo 1 – Manual Command Angles](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+[Link to Arm Demo 1 – Manual Command Angles](https://drive.google.com/file/d/17RVlRrK2ki-3qSDm7avstNjXj4eX8NCp/view?usp=sharing)
 
 ---
 
@@ -49,7 +50,7 @@ This demo demonstrates an automated pick-and-place routine triggered by a single
 - Fully automated arm sequence
 
 **Demo Video:**  
-[Link to Arm Demo 2 – Pick and Place](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+[Link to Arm Demo 2 – Pick and Place](https://drive.google.com/file/d/1c3OHFqIiDphFyhv69pgGHXU5F2X_37s_/view?usp=sharing)
 
 ---
 
@@ -71,7 +72,7 @@ This demo integrates the arm with the TurtleBot base. The system performs an aut
 - Automated flow from a single published message
 
 **Demo Video:**  
-[Link to Arm Demo 3 – TurtleBot Grab and Drop](https://drive.google.com/drive/u/1/folders/1_Ye309f8WYFzGMTFFgnmvAcjIRsoTZuX)
+[Link to Arm Demo 3 – TurtleBot Grab and Drop](https://drive.google.com/file/d/1Db5zV0p3C0ffVIVcxKUQBju89iOm0ZxL/view?usp=sharing)
 
 ---
 
@@ -116,7 +117,6 @@ This demo extends the search-and-retrieve task by handling multiple ArUco tags a
 
 **Notes:**
 - Multi-goal navigation
-- Video recorded at 2× speed
 
 **Demo Video:**  
 [Link to Project Demo 2 – Search, Retrieve, Place & Store](https://drive.google.com/file/d/10U8bopsaqOuuywfz8IOdW1GBXfbJhhGO/view?usp=sharing)
