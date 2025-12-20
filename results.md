@@ -5,9 +5,9 @@ permalink: /results/
 
 ## Demos
 
-This section documents all implemented system demos. Each demo includes a short description of the behavior being demonstrated and a placeholder link where the corresponding demo video can be added.
+This section documents all implemented system demos. Each demo includes a short description of the behavior being demonstrated and a link where the corresponding demo video can be viewed.
 
-Note: Must use a UC Berkeley account to view demo videos.
+**Note: Must use a UC Berkeley account to view demo videos.**
 ---
 
 ### Arm Demo 1: Manual Command Angles
